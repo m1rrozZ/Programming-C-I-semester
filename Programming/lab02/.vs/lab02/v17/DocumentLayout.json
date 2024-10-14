@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects(\u002B)\\Languages\\C\u002B\u002B\\Programming UN\\lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13B937E5-C3DE-4477-AE09-11CA2070BEC1}|lab02\\lab02.vcxproj|D:\\Projects(\u002B)\\Languages\\C\u002B\u002B\\Programming UN\\lab02\\lab02\\lab02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13B937E5-C3DE-4477-AE09-11CA2070BEC1}|lab02\\lab02.vcxproj|solutionrelative:lab02\\lab02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 341,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab02.cpp",
+              "DocumentMoniker": "D:\\Projects(\u002B)\\Languages\\C\u002B\u002B\\Programming UN\\lab02\\lab02\\lab02.cpp",
+              "RelativeDocumentMoniker": "lab02\\lab02.cpp",
+              "ToolTip": "D:\\Projects(\u002B)\\Languages\\C\u002B\u002B\\Programming UN\\lab02\\lab02\\lab02.cpp",
+              "RelativeToolTip": "lab02\\lab02.cpp",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAN8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T18:12:01.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

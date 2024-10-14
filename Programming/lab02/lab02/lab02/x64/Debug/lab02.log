@@ -1,0 +1,4 @@
+﻿  lab02.cpp
+D:\Projects(+)\Languages\C++\Programming(Chapter 1)\lab02\lab02\lab02.cpp(21,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects(+)\Languages\C++\Programming(Chapter 1)\lab02\lab02\lab02.cpp(22,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab02.vcxproj -> D:\Projects(+)\Languages\C++\Programming(Chapter 1)\lab02\lab02\x64\Debug\lab02.exe

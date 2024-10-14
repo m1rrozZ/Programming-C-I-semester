@@ -1,0 +1,4 @@
+﻿  lab03.cpp
+D:\Projects(+)\Languages\C++\Programming UN\lab03\lab03\lab03.cpp(153,78): warning C4566: character represented by universal-character-name '\u03C0' cannot be represented in the current code page (1251)
+D:\Projects(+)\Languages\C++\Programming UN\lab03\lab03\lab03.cpp(101,21): warning C4305: '=': truncation from 'double' to 'float'
+  lab03.vcxproj -> D:\Projects(+)\Languages\C++\Programming UN\lab03\x64\Debug\lab03.exe
