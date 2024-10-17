@@ -81,7 +81,7 @@ public:
                 }
                 catch (const exception& e)
                 {
-                    cerr << "Помилка: " << e.what() << '\n';
+                    cerr << e.what() << '\n';
                 }
             }
         }
